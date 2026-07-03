@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @AransDino
-- 👀 I’m interested in all tecnologies...
-- 🌱 I’m currently learning 3d design and printing environment, programming environments, linux, windows, android operating systems, etc.
-- 💞️ I’m looking to collaborate with you.
-- 📫 How to reach me ayoze.benitez@hotmail.com  
+<div align="center">
 
-<!---
-AransDino/AransDino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🌋 Hola, soy Ayoze
+
+**Cacharreo con IA local, Python y automatizaciones desde Tías, Lanzarote 🏝️**
+
+### 👉 Mi página de perfil: **[aransdino.github.io](https://aransdino.github.io/)** 👈
+
+<a href="https://aransdino.github.io/">
+  <img src="https://img.shields.io/badge/🌋_Visita_mi_página-aransdino.github.io-ff2e63?style=for-the-badge&labelColor=0b0a0f" alt="Visita mi página">
+</a>
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/IA_local_·_Ollama-0b0a0f?style=flat-square&logo=ollama&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-ff6b35?style=flat-square&logo=openai&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat-square&logo=gnubash&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA_·_RTX_5090-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+<br>
+
+*No vendo nada — esto es mi rincón de experimentos.* 🧪
+
+</div>
