@@ -9,6 +9,9 @@
 <a href="https://aransdino.github.io/">
   <img src="https://img.shields.io/badge/🌋_Visita_mi_página-aransdino.github.io-ff2e63?style=for-the-badge&labelColor=0b0a0f" alt="Visita mi página">
 </a>
+<a href="https://aransdino.github.io/lab/">
+  <img src="https://img.shields.io/badge/⚡_El_Lab-del_bit_al_átomo-4ecdc4?style=for-the-badge&labelColor=0b0a0f" alt="El Lab — del bit al átomo">
+</a>
 
 <br><br>
 
